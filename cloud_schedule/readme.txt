@@ -1,0 +1,2 @@
+将My_CloudSim放到CloudSim源代码的example module里运行即可。
+MyDatacenterBroker继承自DatacenterBroker，重写了调度算法。
